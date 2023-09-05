@@ -26,3 +26,6 @@ Unzipped Survey Raw Data in .SAV format
 
 - csv_file<br>
 Preprocessed survey .csv files need to be uploaded
+
+## Contact
+If you have any problem while using this program, please feel free to contact me: jess880831@gmail.com
